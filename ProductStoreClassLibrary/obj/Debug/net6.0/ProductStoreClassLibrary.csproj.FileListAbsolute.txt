@@ -1,0 +1,36 @@
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\ProductStoreClassLibrary\obj\Debug\net6.0\ProductStoreClassLibrary.csproj.AssemblyReference.cache
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\ProductStoreClassLibrary\obj\Debug\net6.0\ProductStoreClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\ProductStoreClassLibrary\obj\Debug\net6.0\ProductStoreClassLibrary.AssemblyInfoInputs.cache
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\ProductStoreClassLibrary\obj\Debug\net6.0\ProductStoreClassLibrary.AssemblyInfo.cs
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\ProductStoreClassLibrary\obj\Debug\net6.0\ProductStoreClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\ProductStoreClassLibrary\bin\Debug\net6.0\ProductStoreClassLibrary.deps.json
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\ProductStoreClassLibrary\bin\Debug\net6.0\ProductStoreClassLibrary.dll
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\ProductStoreClassLibrary\bin\Debug\net6.0\ProductStoreClassLibrary.pdb
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\ProductStoreClassLibrary\obj\Debug\net6.0\ProductStoreClassLibrary.dll
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\ProductStoreClassLibrary\obj\Debug\net6.0\refint\ProductStoreClassLibrary.dll
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\ProductStoreClassLibrary\obj\Debug\net6.0\ProductStoreClassLibrary.pdb
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\ProductStoreClassLibrary\obj\Debug\net6.0\ref\ProductStoreClassLibrary.dll
+E:\ПП\PP2023_KozlovS_ISP3120\ProductStoreClassLibrary\bin\Debug\net6.0\ProductStoreClassLibrary.deps.json
+E:\ПП\PP2023_KozlovS_ISP3120\ProductStoreClassLibrary\bin\Debug\net6.0\ProductStoreClassLibrary.dll
+E:\ПП\PP2023_KozlovS_ISP3120\ProductStoreClassLibrary\bin\Debug\net6.0\ProductStoreClassLibrary.pdb
+E:\ПП\PP2023_KozlovS_ISP3120\ProductStoreClassLibrary\obj\Debug\net6.0\ProductStoreClassLibrary.csproj.AssemblyReference.cache
+E:\ПП\PP2023_KozlovS_ISP3120\ProductStoreClassLibrary\obj\Debug\net6.0\ProductStoreClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\ПП\PP2023_KozlovS_ISP3120\ProductStoreClassLibrary\obj\Debug\net6.0\ProductStoreClassLibrary.AssemblyInfoInputs.cache
+E:\ПП\PP2023_KozlovS_ISP3120\ProductStoreClassLibrary\obj\Debug\net6.0\ProductStoreClassLibrary.AssemblyInfo.cs
+E:\ПП\PP2023_KozlovS_ISP3120\ProductStoreClassLibrary\obj\Debug\net6.0\ProductStoreClassLibrary.csproj.CoreCompileInputs.cache
+E:\ПП\PP2023_KozlovS_ISP3120\ProductStoreClassLibrary\obj\Debug\net6.0\ProductStoreClassLibrary.dll
+E:\ПП\PP2023_KozlovS_ISP3120\ProductStoreClassLibrary\obj\Debug\net6.0\refint\ProductStoreClassLibrary.dll
+E:\ПП\PP2023_KozlovS_ISP3120\ProductStoreClassLibrary\obj\Debug\net6.0\ProductStoreClassLibrary.pdb
+E:\ПП\PP2023_KozlovS_ISP3120\ProductStoreClassLibrary\obj\Debug\net6.0\ref\ProductStoreClassLibrary.dll
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\ProductStoreClassLibrary\bin\Debug\net6.0\ProductStoreClassLibrary.deps.json
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\ProductStoreClassLibrary\bin\Debug\net6.0\ProductStoreClassLibrary.dll
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\ProductStoreClassLibrary\bin\Debug\net6.0\ProductStoreClassLibrary.pdb
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\ProductStoreClassLibrary\obj\Debug\net6.0\ProductStoreClassLibrary.csproj.AssemblyReference.cache
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\ProductStoreClassLibrary\obj\Debug\net6.0\ProductStoreClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\ProductStoreClassLibrary\obj\Debug\net6.0\ProductStoreClassLibrary.AssemblyInfoInputs.cache
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\ProductStoreClassLibrary\obj\Debug\net6.0\ProductStoreClassLibrary.AssemblyInfo.cs
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\ProductStoreClassLibrary\obj\Debug\net6.0\ProductStoreClassLibrary.csproj.CoreCompileInputs.cache
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\ProductStoreClassLibrary\obj\Debug\net6.0\ProductStoreClassLibrary.dll
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\ProductStoreClassLibrary\obj\Debug\net6.0\refint\ProductStoreClassLibrary.dll
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\ProductStoreClassLibrary\obj\Debug\net6.0\ProductStoreClassLibrary.pdb
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\ProductStoreClassLibrary\obj\Debug\net6.0\ref\ProductStoreClassLibrary.dll

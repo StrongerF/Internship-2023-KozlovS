@@ -1,0 +1,183 @@
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\PP2023_KozlovS_ISP3120.exe
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\PP2023_KozlovS_ISP3120.deps.json
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\PP2023_KozlovS_ISP3120.runtimeconfig.json
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\PP2023_KozlovS_ISP3120.dll
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\PP2023_KozlovS_ISP3120.pdb
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\PP2023_KozlovS_ISP3120.csproj.AssemblyReference.cache
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\PP2023_KozlovS_ISP3120_MarkupCompile.cache
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\PP2023_KozlovS_ISP3120_MarkupCompile.lref
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\PP2023_KozlovS_ISP3120.g.resources
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\PP2023_KozlovS_ISP3120.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\PP2023_KozlovS_ISP3120.AssemblyInfoInputs.cache
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\PP2023_KozlovS_ISP3120.AssemblyInfo.cs
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\PP2023_KozlovS_ISP3120.csproj.CoreCompileInputs.cache
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\PP2023_KozlovS_ISP3120.dll
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\refint\PP2023_KozlovS_ISP3120.dll
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\PP2023_KozlovS_ISP3120.pdb
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\PP2023_KozlovS_ISP3120.genruntimeconfig.cache
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\ref\PP2023_KozlovS_ISP3120.dll
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\AuthWindow.g.cs
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\Pages\AuthWindow\AuthPage.g.cs
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\AuthWindow.baml
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\Pages\AuthWindow\AuthPage.baml
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\Pages\AuthWindow\RegPage.g.cs
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\Pages\AuthWindow\RegPage.baml
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\ProductStoreClassLibrary.dll
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\ProductStoreClassLibrary.pdb
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\PP2023_KozlovS_ISP3120.csproj.CopyComplete
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\Pages\MainWindow\MainPage.g.cs
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\Pages\MainWindow\MainPage.baml
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\Windows\AddEditProductWindow.g.cs
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\Windows\AddEditProductWindow.baml
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\Windows\BuyProductWindow.g.cs
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\Windows\BuyProductWindow.baml
+C:\Users\stron\source\repos\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\PP2023_KozlovS_ISP3120_Content.g.cs
+E:\ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\PP2023_KozlovS_ISP3120.exe
+E:\ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\PP2023_KozlovS_ISP3120.deps.json
+E:\ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\PP2023_KozlovS_ISP3120.runtimeconfig.json
+E:\ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\PP2023_KozlovS_ISP3120.dll
+E:\ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\PP2023_KozlovS_ISP3120.pdb
+E:\ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\Azure.Core.dll
+E:\ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\Azure.Identity.dll
+E:\ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+E:\ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+E:\ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+E:\ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+E:\ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\System.Memory.Data.dll
+E:\ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+E:\ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\ProductStoreClassLibrary.dll
+E:\ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\ProductStoreClassLibrary.pdb
+E:\ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\PP2023_KozlovS_ISP3120.csproj.AssemblyReference.cache
+E:\ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\AuthWindow.g.cs
+E:\ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\Pages\AuthWindow\AuthPage.g.cs
+E:\ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\Pages\AuthWindow\RegPage.g.cs
+E:\ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\Pages\MainWindow\MainPage.g.cs
+E:\ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\Windows\AddEditProductWindow.g.cs
+E:\ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\Windows\BuyProductWindow.g.cs
+E:\ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\App.g.cs
+E:\ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\PP2023_KozlovS_ISP3120_Content.g.cs
+E:\ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\PP2023_KozlovS_ISP3120_MarkupCompile.cache
+E:\ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\PP2023_KozlovS_ISP3120_MarkupCompile.lref
+E:\ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\AuthWindow.baml
+E:\ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\MainWindow.baml
+E:\ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\Pages\AuthWindow\AuthPage.baml
+E:\ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\Pages\AuthWindow\RegPage.baml
+E:\ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\Pages\MainWindow\MainPage.baml
+E:\ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\Windows\AddEditProductWindow.baml
+E:\ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\Windows\BuyProductWindow.baml
+E:\ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\PP2023_KozlovS_ISP3120.g.resources
+E:\ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\PP2023_KozlovS_ISP3120.GeneratedMSBuildEditorConfig.editorconfig
+E:\ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\PP2023_KozlovS_ISP3120.AssemblyInfoInputs.cache
+E:\ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\PP2023_KozlovS_ISP3120.AssemblyInfo.cs
+E:\ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\PP2023_KozlovS_ISP3120.csproj.CoreCompileInputs.cache
+E:\ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\PP2023_KozlovS_ISP3120.csproj.CopyComplete
+E:\ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\PP2023_KozlovS_ISP3120.dll
+E:\ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\refint\PP2023_KozlovS_ISP3120.dll
+E:\ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\PP2023_KozlovS_ISP3120.pdb
+E:\ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\PP2023_KozlovS_ISP3120.genruntimeconfig.cache
+E:\ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\ref\PP2023_KozlovS_ISP3120.dll
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\PP2023_KozlovS_ISP3120.exe
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\PP2023_KozlovS_ISP3120.deps.json
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\PP2023_KozlovS_ISP3120.runtimeconfig.json
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\PP2023_KozlovS_ISP3120.dll
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\PP2023_KozlovS_ISP3120.pdb
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\Azure.Core.dll
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\Azure.Identity.dll
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\System.Memory.Data.dll
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\ProductStoreClassLibrary.dll
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\bin\Debug\net6.0-windows\ProductStoreClassLibrary.pdb
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\PP2023_KozlovS_ISP3120.csproj.AssemblyReference.cache
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\AuthWindow.g.cs
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\Pages\AuthWindow\AuthPage.g.cs
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\Pages\AuthWindow\RegPage.g.cs
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\Pages\MainWindow\MainPage.g.cs
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\Windows\AddEditProductWindow.g.cs
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\Windows\BuyProductWindow.g.cs
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\App.g.cs
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\PP2023_KozlovS_ISP3120_Content.g.cs
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\PP2023_KozlovS_ISP3120_MarkupCompile.cache
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\PP2023_KozlovS_ISP3120_MarkupCompile.lref
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\AuthWindow.baml
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\MainWindow.baml
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\Pages\AuthWindow\AuthPage.baml
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\Pages\AuthWindow\RegPage.baml
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\Pages\MainWindow\MainPage.baml
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\Windows\AddEditProductWindow.baml
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\Windows\BuyProductWindow.baml
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\PP2023_KozlovS_ISP3120.g.resources
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\PP2023_KozlovS_ISP3120.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\PP2023_KozlovS_ISP3120.AssemblyInfoInputs.cache
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\PP2023_KozlovS_ISP3120.AssemblyInfo.cs
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\PP2023_KozlovS_ISP3120.csproj.CoreCompileInputs.cache
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\PP2023_KozlovS_ISP3120.csproj.CopyComplete
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\PP2023_KozlovS_ISP3120.dll
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\refint\PP2023_KozlovS_ISP3120.dll
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\PP2023_KozlovS_ISP3120.pdb
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\PP2023_KozlovS_ISP3120.genruntimeconfig.cache
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\ref\PP2023_KozlovS_ISP3120.dll

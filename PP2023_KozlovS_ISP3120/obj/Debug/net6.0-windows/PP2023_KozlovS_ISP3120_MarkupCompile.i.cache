@@ -1,0 +1,20 @@
+﻿PP2023_KozlovS_ISP3120
+1.0.0.0
+
+winexe
+C#
+.cs
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\obj\Debug\net6.0-windows\
+PP2023_KozlovS_ISP3120
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+E:\Учёба\3.2\Козлов С.Д ПП\PP2023_KozlovS_ISP3120\PP2023_KozlovS_ISP3120\App.xaml
+7-886290965
+1-318332366
+11-1446504722
+2101843040200
+AuthWindow.xaml;MainWindow.xaml;Pages\AuthWindow\AuthPage.xaml;Pages\AuthWindow\RegPage.xaml;Pages\MainWindow\MainPage.xaml;Windows\AddEditProductWindow.xaml;Windows\BuyProductWindow.xaml;
+
+False
+
